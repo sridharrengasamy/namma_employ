@@ -15,17 +15,7 @@
       {
          "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/namma_employ/main/employ1.jpg"
-      },
-      
-      {
-         "type":"image",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/namma_employ/main/employ2.jpg"
-      },
-           
-      {
-         "type":"youtube",
-         "Id":""
-       }
+      }
    ]
 
  }
